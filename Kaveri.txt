@@ -1,2 +1,3 @@
 Difference Between working areas and staggin areas
 Working Vs staging
+commited file
